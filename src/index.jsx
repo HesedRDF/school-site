@@ -7,6 +7,7 @@ import App from "./App";
 import About from "./pages/About";
 import Services from "./pages/Services";
 import Gallery from "./pages/Gallery";
+import Apply from "./pages/Apply";
 
 const root = document.getElementById("root");
 
@@ -23,6 +24,7 @@ render(
       <Route path="/about-hesed-academy" component={About} />
       <Route path="/our-services" component={Services} />
       <Route path="/gallery" component={Gallery} />
+      <Route path="/apply" component={Apply} />
     </Router>
   ),
   root

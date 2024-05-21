@@ -55,9 +55,13 @@ function Header() {
               </A>
             </div>
             <div class="pt-3 border-t lg:border-none lg:pt-0 flex space-x-4 justify-center">
-              <A href="#" class="bg-red-700 p-2 rounded-lg hover:opacity-60">
+              <a
+                target="_blank"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSeVB9Gb0TfFKn_ZAkqvLu0nAkCgZxOiKidMYdDPJKmLAIxRPg/viewform?usp=sf_link"
+                class="bg-red-700 p-2 rounded-lg hover:opacity-60"
+              >
                 Online Application Form
-              </A>
+              </a>
               <a
                 href="https://wa.me/+2348137782087"
                 target="_blank"
