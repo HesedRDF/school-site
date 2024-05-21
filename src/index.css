@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.alata {
+  font-family: "Alata", sans-serif;
+  /* font-weight: 400; */
+  font-style: normal;
+}
+
+.shadows-into-light {
+  font-family: "Shadows Into Light", cursive;
+  /* font-weight: 400; */
+  font-style: normal;
+}
+
+.merriweather {
+  font-family: "Merriweather", serif;
+  /* font-weight: 700; */
+  font-style: normal;
+}
+/* 
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700 */
+
+.lora {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  /* font-weight: 400; */
+  font-style: normal;
+}
+
+.menu a{
+  color: #00447C;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: color .4s ease-out;
+  position: relative;
+  font-family: 'Alata', sans-serif;
+}
+.mySlides {display:none;}
+
+.topic{
+  background: #fff000;
+  padding: 0 10px;
+  border-radius: 30% 0 40% 0;
+}
+
+.gray_bg{
+  background-image: url("../src/assets/images/header-bg.jpg");
+}
