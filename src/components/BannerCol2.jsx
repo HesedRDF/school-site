@@ -28,7 +28,7 @@ function BannerCol2() {
       </div>
       <A href="#" class="block uppercase py-14 hover:opacity-60">
         <h2 class="text-center text-white text-xl lg:text-xl">
-          LEARN ABOUT OUT
+          LEARN ABOUT OUR
         </h2>
         <h1 class="text-2xl lg:text-2xl font-bold w-4/5 mb-4 mx-auto text-center text-orange-100">
           VISION, MISSION, & MANDATE
